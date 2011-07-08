@@ -1,9 +1,7 @@
-$(function(){
-    
-var loadSlides = function(slidesUrl) {
-    
+initSlides = function(data) {
+    alert('jsonp callback success');   
 };
 
-// loadSlides('https://sprjr.cloudant.com/wdd_slides/_design/slides/_view/all');    
+$(function(){
 
 });
