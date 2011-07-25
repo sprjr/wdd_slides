@@ -1,0 +1,89 @@
+# Text-Only Version of Slides
+# To be inserted in Cloudant/CouchDB later
+
+
+##  Title: Template
+#   Author: 
+#   Category:
+#   Caption:
+#   Links: [ link, link ]
+#   Body:
+#
+#
+#   
+#########
+
+
+##  Title: Pay Attention, Ask Questions
+#   Author: sprjr
+#   Category: lectures
+#   Caption: "It costs you more than $40/hr to either learn or browse Facebook. Pick one."
+#   Links: 
+#   Body: At Full Sail, the tuition is not cheap. Not paying attention to lectures, or being engaged by asking questions is very costly. You'll end up asking later when you're stuck on homework, or struggling to get a C. At roughly $2500 per 60 hour course, how much are you paying someone to talk while you keep up with Facebook, Reddit, or iChat? Is that worth it to you?
+#   
+#########
+
+##  Title: Labs are actually the best place to work.
+#   Author: sprjr
+#   Category: homework
+#   Caption: "I can't focus here, I'll just goof around and then do homework tomorrow before it's due."
+#   Links: 
+#   Body: This was me for the first 12 or so months of the degree. The reality is, I couldn't have been more wrong. Stop making excuses that you can't focus in lab because all you can think about is going home. Take a legitimate amount of time, and focus on preparing for and starting your homework. If you can't be creative in labs, do the tedious things that don't have to do with creativity like research & study. Your projects, grades, and portfolio will thank you.
+#
+#########
+
+##  Title: It's Not Them vs. You
+#   Author: sprjr
+#   Category: attitude
+#   Caption: "I'm not paying $3000 for [ yadda, yadda, yadda ]"
+#   Links: 
+#   Body: You'll hear this, probably more than once. You might even say it - you feel like you're paying too much money and not learning what you think you need to be learning. Guess what? You actually are, you just don't have the experience to recognize it yet. More teachers at Full Sail know what they are doing than not; learn to trust them and make sure you're picking up on what they are teaching you - even if it doesn't seem right.
+#
+#########
+
+##  Title: Don't just achieve, over-achieve.
+#   Author: sprjr
+#   Category: homework
+#   Caption: "Getting an A only means you got an A and can follow directions. You're better than that."
+#   Links: 
+#   Body: Full Sail is a traditional college about as much as a monkey is a traditional college. There are rubrics and grading systems in order to keep things headed the right direction. If you get an assignment done, go further. Challenge yourself. Learn to fail or get stuck so you can problem solve, don't just sit there trying to get points checked off in a category for your report card.
+#
+#########
+
+##  Title: Curate a Twitter account professionally.
+#   Author: sprjr
+#   Category: extras
+#   Caption: "Being involved with your peers at school and in the industry is invaluable."
+#   Links: [ "http://www.twitter.com" ]
+#   Body: Twitter allows you to see concise and useful updates from your teachers, class mates, alumni, and industry professionals. It introduces you to their resources, mistakes, and other tips or tricks. Avoid hip trendy hastags about the new Justin Bieber song, and actually reach out to people who can help you get better at what you do. Start following and interacting with the kind of web professionals that you yourself want to be.
+#
+#########
+
+##  Title: No really, the teachers aren't against you.
+#   Author: sprjr
+#   Category: attitude
+#   Caption: "Stop thinking you need spoonfed, accept their challenge to fail."
+#   Links: 
+#   Body: You don't need everything answered or given to you. Some courses put you out on your own because they are trying to teach you to teach yourself. It's not that you're paying $3000 to learn on Google, it's that your paying $3000 to learn how to teach yourself and when you fail (not if) they'll  be right there to help you get back on track. This is a great time in your life to make a lot of mistakes, because they'll always be around to help.
+#
+#########
+
+##  Title: Quit complaining.
+#   Author: sprjr
+#   Category: attitude
+#   Caption: "No seriously, quit it."
+#   Links:
+#   Body: There's a difference between joking around and legitimately bemoaning your homework plight to your peers. "All that extra busy work" you hate is actually really good for you. The more effecient you get at it and the more positive your attitude the better you'll do later in the degree. Learn to accept the task at hand in a focused, organized fashion and just shut up and kill it.
+#
+#########
+
+##  Title: You + Web Studios; Win.
+#   Author: sprjr
+#   Category: extras
+#   Caption: "Take time to get to know real world designers and developers."
+#   Links: 
+#   Body: I took the time to go on "field trips" to (so far) 4 companies in my area. I really just said "Hey, I'm curious about how this all works in the real world; can I stop by?" All of them were more than happy to have us down and give us the grand tour, as well as answer questions. I would highly recommend it, especially since you hope to some day work with and for these people.
+#
+#
+#   
+#########
