@@ -1,0 +1,126 @@
+/*
+ *
+ * Project: WDD_Slides
+ * Author: Stephen Rivas JR
+ * Website: http://www.stephenrivasjr.com
+ *
+ */
+
+ 
+
+/*
+ * General / Uncategorized --------------------------------------------- /
+ */
+ 
+html {
+    background: #E1E1E1;
+}
+
+body {
+    background: #F0F0F0;
+    padding: 0;
+    margin: 0 auto;
+    font: 62.5%/1.7 'Helvetica Neue', Futura, Helvetica, Verdana, sans-serif;
+    box-shadow: 0 0 15px rgba(0,0,0,.2);
+}
+
+.clear {
+    clear: both;   
+}
+
+
+/*
+ * Navigation / Utility Bar --------------------------------------------- /
+ */
+
+nav {
+    margin: 0 auto 0 auto;
+    text-align: center;
+    background: rgba(255,255,255,.5);
+    border-bottom: 4px dashed white;
+    overflow: hidden;
+}
+ 
+nav ul {
+    width: 450px;
+    padding: 0;
+    margin: 0 auto;
+    list-style: none;
+}
+
+nav li {
+    float: left;
+    overflow: hidden;
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 2em;
+    height: 30px;
+    width: 150px;
+}
+
+nav li:nth-child(4), nav li:nth-child(5) {
+    font-size: 1.1em;
+    width: 225px;
+    text-align: center;
+    margin: 15px 0 0;
+}
+
+nav li a:link, nav li a:visited, nav li a:active {
+    text-decoration: none;
+    margin: 0 10px;
+    color: #E0941B;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0);
+    -webkit-transition: all .1s ease-in;
+}
+
+nav li a.menu:hover {
+    -webkit-transition: none;
+    font-size: 1em;
+}
+
+nav li a:hover {
+    color: #F5A018;
+    font-size: 1.2em;
+    text-shadow: 2px 2px 2px rgba(120,79,14,.4);
+}
+
+/*
+ * Slideshow --------------------------------------------- /
+ */
+ 
+#slideshow {
+    clear: both;
+    margin: 15px auto;
+    overflow: hidden;
+}
+
+#slideshow h1 {
+    font: 4em 'Candal', sans-serif;
+    width: 100%;
+    padding: 2% 5%;
+    margin: 0;
+}
+
+.slide-body {
+    font: 2em 'Rosario', sans-serif;
+    width: 60%;
+    float: right;
+    padding: 0 2%;
+}
+
+.slide-caption {
+    font: 3em 'Nothing You Could Do', cursive;
+    width: 30%;
+    float: right;
+    border-right: 2px solid orange;
+    padding: 0 15px;
+}
+
+/*
+ * Footer --------------------------------------------- /
+ */
+ 
+footer {
+    padding: 0 5%;
+    clear: both;
+    margin: 0 auto;
+}
