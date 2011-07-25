@@ -28,6 +28,10 @@ body {
     clear: both;   
 }
 
+ul {
+    list-style: none;   
+}
+
 
 /*
  * Navigation / Utility Bar --------------------------------------------- /
@@ -45,7 +49,6 @@ nav ul {
     width: 450px;
     padding: 0;
     margin: 0 auto;
-    list-style: none;
 }
 
 nav li {
@@ -113,6 +116,26 @@ nav li a:hover {
     float: right;
     border-right: 2px solid orange;
     padding: 0 15px;
+}
+
+/*
+ * Slideshow Meta Info --------------------------------------------- /
+ */
+ 
+#slide_meta {
+    float: right;
+    width: 25%;
+}
+
+.slide-meta li:first-child {
+    font: 2.4em 'Nothing You Could Do', cursive;
+    color: #F5A018;
+}
+
+.slide-meta li:nth-child(2) {
+    color: #C1C1C1;
+    padding: 10px 0 0 0;
+    font-size: 1.4em;
 }
 
 /*
