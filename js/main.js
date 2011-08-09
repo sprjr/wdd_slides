@@ -41,7 +41,7 @@ var loadSlide = function() {
 
 $(function(){
     
-    $('#slideshow h1').fitText();
+    // $('#slideshow h1').fitText();
     
     loadSlide();
     

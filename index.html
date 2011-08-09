@@ -5,6 +5,7 @@
     
     <!-- CSS Documents -->
     <link rel="stylesheet" type="text/css" href="css/display.css">
+    <link rel="stylesheet" type="text/css" href="css/reveal.css">
     <link href='http://fonts.googleapis.com/css?family=Nothing+You+Could+Do&v2' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Rosario&v2' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Candal&v2' rel='stylesheet' type='text/css'>
@@ -12,7 +13,7 @@
     <!-- jQuery, jQuery Couch, & Other JavaScript Documents -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
     <script type="text/javascript" src="http://sprjr.cloudant.com/_utils/script/jquery.couch.js"></script>
-    <script type="text/javascript" src="js/jquery.fittext.js"></script>
+    <script type="text/javascript" src="js/jquery.reveal.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
     <script type="text/javascript" src="https://sprjr.cloudant.com/wdd_slides/_design/slides/_list/slides-json/all?callback=initSlides"></script>
 </head>
@@ -55,10 +56,42 @@
 </aside>
 </article>
 
+<article id="aboutModal" class="reveal-modal">
+    <section>
+        <h1>About WDD_Slides</h1>
+        <p>WDD_Slides is a project that has a few goals involved with its creation and existence. I wanted to create a lightweight application
+        that was fully based in a cloud environment (e.g. everything created or developed from within a browser / web application).</p>
+        <p>To do that I utilized (currently) <a href="http://www.cloud9ide.com/">Cloud9IDE</a>, CouchDB (hosted by <a href="http://www.cloudant.com/">Cloudant</a>)
+        and <a href="http://www.github.com/">GitHub</a>. This allowed me to develop my app simply, and still retain version control / easy open source sharing, as
+        well as provide me with a dynamic content database for the project itself.</p>
+    </section>
+    
+    <section>
+        <h1>The Second Part</h1>
+        <p>The other part of this project was intended to pass on to future students in my degree program at <a href="http://www.fullsail.com/">Full Sail University</a>
+        so that they could learn from my own failures and perhaps successes in the program. The degree itself (like any college) isn't cheap, and I wanted to be sure
+        to maximize what I took away from it as well as what I could give back so others can benefit as well.</p>
+        <p>I currently plan to implement a category / author sorting feature which should actually be quite easy to do, as well as an admin control panel to input new
+        slide content into the Couch (however that is proving difficult to do with my current tech lockdown). Perhaps if a solution doesn't present itself I will break
+        at least the "cloud only" rule and whip up a quick admin panel and shoot it off to Cloudant with a replicate and be done.
+    </section>
+    
+    <section>
+        <h1>The Author</h1>
+        <p>My name is Stephen Rivas JR, I'm currently a 27 year old student who loves web development. I enjoy Javascript, CouchDB, minimalistic design, and learning
+        new ways to solve problems.</p>
+        <p>You can check out my works all over the internet as I sporadically post them about - although I hope to assemble them all on my own site which you can locate
+        over at <a href="http://www.stephenrivasjr.com/">www.stephenrivasjr.com</a>.</p>
+        <p>I also project manage / own a web studio called <a href="http://www.zeunic.com/">zeunic</a>, so check us out there as well!</p>
+    </section>
+    
+    <a class="close-reveal-modal">&#215;</a>
+</article>
+
 <footer>
     <h2>WDD_Slides Cloud Development Project</h2>
     <p>By Stephen Rivas JR | <a href="https://github.com/sprjr/wdd_slides" class="gitforked-button">Fork</a></p>
-    <p>Version 1 (Beta-esque) | About Page Coming Shortly</p>
+    <p>Version 1.1 (Beta-esque) | <a href="#" data-reveal-id="aboutModal">About this Project</a> | Admin Panel Coming Up Next</p>
 </footer>
 
 <script src="http://gitforked.com/api/1.1/button.js" type="text/javascript"></script>
